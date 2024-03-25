@@ -1,0 +1,228 @@
+[
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the world&#039;s most expensive spice by weight?",
+        "correct_answer": "Saffron",
+        "incorrect_answers": [
+            "Cinnamon",
+            "Cardamom",
+            "Vanilla"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Video streaming website YouTube was purchased in it&#039;s entirety by Facebook for US$1.65 billion in stock.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A doctor with a PhD is a doctor of what?",
+        "correct_answer": "Philosophy",
+        "incorrect_answers": [
+            "Psychology",
+            "Phrenology",
+            "Physical Therapy"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which American president appears on a one dollar bill?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Benjamin Franklin"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "Papua New Guinea",
+            "Ethiopia",
+            "China"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Cucumbers are usually more than 90% water.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What do the letters in the GMT time zone stand for?",
+        "correct_answer": "Greenwich Mean Time",
+        "incorrect_answers": [
+            "Global Meridian Time",
+            "General Median Time",
+            "Glasgow Man Time"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "The Lego Group was founded in 1932.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+        "correct_answer": "We Love to See You Smile",
+        "incorrect_answers": [
+            "Why Pay More!?",
+            "Have It Your Way",
+            "Making People Happy Through Food"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What machine element is located in the center of fidget spinners?",
+        "correct_answer": "Bearings",
+        "incorrect_answers": [
+            "Axles",
+            "Gears",
+            "Belts"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+        "correct_answer": "Shogun",
+        "incorrect_answers": [
+            "Ninja",
+            "Samurai",
+            "Shinobi"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What are Panama hats made out of?",
+        "correct_answer": "Straw",
+        "incorrect_answers": [
+            "Silk",
+            "Hemp",
+            "Flax"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The word &quot;abulia&quot; means which of the following?",
+        "correct_answer": "The inability to make decisions",
+        "incorrect_answers": [
+            "The inability to stand up",
+            "The inability to concentrate on anything",
+            "A feverish desire to rip one&#039;s clothes off"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+        "correct_answer": "Medell&iacute;n",
+        "incorrect_answers": [
+            "Bogot&aacute;",
+            "Quito",
+            "Cali"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which country has the union jack in its flag?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "South Africa",
+            "Canada",
+            "Hong Kong"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "The mitochondria is the powerhouse of the cell.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who invented the first ever chocolate bar, in 1847?",
+        "correct_answer": "Joseph Fry",
+        "incorrect_answers": [
+            "Andrew Johnson",
+            "John Cadbury",
+            "John Tyler"
+        ]
+    }
+]
